@@ -18,5 +18,8 @@ resource "provider_type" "name"
  export TF_VAR_filename="/root/pets.txt"
 
 
-AWS Project Development Kit (PDK) - CDK Graph
-  https://aws.github.io/aws-pdk/developer_guides/cdk-graph/index.html
+- AWS Project Development Kit (PDK) - CDK Graph
+https://aws.github.io/aws-pdk/developer_guides/cdk-graph/index.html
+
+- Example deploy bedrock modules
+https://github.com/aws-ia/terraform-aws-bedrock
